@@ -11,6 +11,21 @@ title: "Publication"
 
 <p>[2] Hua Bai, <b>Haoyuan Zhang</b>, 2017. CPN Based Modeling of Tourism Demand Forecasting. <i>International Journal of Business and Management</i>, 12(1), pp.28-35.</p>
 
+<p>1. Pan, W., Li, K.J., Teng, Y. (2017) Life Cycle Carbon Assessment of Prefabricated Buildings: Challenges and Solutions, Proceedings of the Institution of Civil Engineers - Engineering Sustainability, Accepted Manuscript. DOI. 10.1680/jensu.17.00063 (SCI)</p>
+<p>2. Li, K.J., Liu, G.W., Shresrha, A., Market, I. (2017) The Role of Local Private Participation in China's Transition to Domestically Developed Renewable Energy Technologies, Journal of Cleaner Production, 173:208-215(SCI)  </p>
+<p>3. Liu, G.W., Li, K.J. (Corresponding Author), Zhao, D., Mao, C. (2017). Business Model Innovation and Its Drivers in the Chinese Construction Industry during the Shift to Modular Prefabrication, Journal of Management in Engineering, 3(33). DOI. 10.1061/(ASCE)ME.1943-5479.0000501 (SCI)  </p>
+<p>4. Ji, Y. B., Li, K.J. (Corresponding Author), Shresrha, A., jing, J.X. (2016). Comparing Greenhouse Gas Emissions of Precast In-situ and Conventional Construction Methods. Journal of Cleaner Production, 173:115-125.  </p>
+<p>5. Pan, W., Li, K.J. (2016). Clusters and Exemplars of Buildings towards Zero Carbon. Building and Environment ,104: 92-21. (SCI)  </p>
+<p>6. Pan, W., Li, K.J. (2015). A Cluster Analysis of ‘Zero Carbon Buildings’. Zero Carbon Building Journal,3: 3-15. </p>  
+<p>7. Hong, J.K., Shen, Q.P., Mao, C., Li, K.J. (2016). Life-cycle Energy Analysis of Prefabricated Building Components: An Input-output based Hybrid Model. Journal of Cleaner Production, 112: 2198-2207. (SCI)  </p>
+<p>8.  Li, K.J., Liu, G.W. (2016). Strategic Business Model Typologies Evident in the Chinese Real Estate Industry. International Journal of Strategic Management, Under Review, (SSCI)  </p>
+<p>9. Wang, D., Liu, G. W., Li, K. J. (2017). Automatic Production Scheduling of Precast Concrete Building Component. Journal of Construction Engineering and Management, Under Review, (SCI) </p>
+<p>10. Pan, W., Li, K.J., Teng, Y. (2017). Rethinking System Boundaries of the Life Cycle Carbon Emissions of Buildings. Renewable & Sustainable Energy Reviews, Under Review, (SCI)</p>
+<p>11. Teng, Y., Li, K.J., Pan, W. (2017). Reducing Buildings’ Life Cycle Carbon Emissions through Prefabrication: Evidence from and Gaps in Empirical Studies. Building and Environment, Under Review, (SCI)</p>
+
+
+
+
    
 <p> &nbsp;</p>
 
