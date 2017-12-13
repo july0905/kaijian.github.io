@@ -39,7 +39,7 @@ title: "Research Activity"
 
 
 <hr>
-<h3>Reviewers/Demonstrator</h3>
+<h3>Reviewers</h3>
 <ul>
 <li>	
 Journal of Cleaner Production (Elsevier)</li>
