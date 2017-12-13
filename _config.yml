@@ -3,13 +3,13 @@ highlighter: rouge
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-author: "Haoyuan Zhang"
-email: haoyuan.zhang@qmul.ac.uk
-name: "Haoyuan Zhang"
-url: haoyuanzhang1990.github.io
+author: "Li Kaijian"
+email: likaijian@cqu.edu.cn  
+name: "Li Kaijian"
+url: likaijian@cqu.edu.cn  
 all_categories: [
 ["read", "Publication","pub.html"], 
-["about", "Research and Teaching","randt.html"]
+["about", "Research Activity","randt.html"]
 ]
 
 paginate: 3
